@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.12.0/css/all.css">
     <link rel="stylesheet" href="../css/style.css">
     <link rel="stylesheet" href="../css/mobile-style.css">
-    <link rel="stylesheet" href="../Login_v1/css/main1.css">
+    <link rel="stylesheet" href="../Login_v1/css/main.css">
 </head>
 
 <body>
@@ -90,7 +90,7 @@
         <div class="container-login100">
             <div class="wrap-login100">
                 <div class="login100-pic js-tilt" data-tilt>
-                    <img src="../Login_v1/images/img-01.png" alt="IMG">
+                    <img src="../assest/login3.jpg" alt="IMG">
                 </div>
 
                 <form class="login100-form validate-form" method="post" action="login.php">
@@ -125,7 +125,7 @@
                         <span class="txt1">
                             Forgot
                         </span>
-                        <a class="txt2" href="#">
+                        <a class="txt2" href="../resetpassword/requestReset.php">
                             Username / Password?
                         </a>
                     </div>

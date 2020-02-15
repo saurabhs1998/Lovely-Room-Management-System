@@ -11,7 +11,21 @@
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.12.0/css/all.css">
     <link rel="stylesheet" href="../css/style.css">
     <link rel="stylesheet" href="../css/mobile-style.css">
-    <script src="main.js"></script>
+    <!-- <script src="main.js"></script> -->
+    
+    <!-- animate.css -->
+    
+    <link rel="stylesheet" href="../wow/animate.css" media="all" type="text/css">
+    <script src="../wow/wow.min.js"></script>
+    <script>
+         new WOW().init();
+    </script>
+
+    <!-- end animate.css -->
+
+
+
+
 </head>
 
 <body>
@@ -89,7 +103,7 @@
                         </div>
                     </div>
                     <div class="col-md-6">
-                        <div class="panel text-left">
+                        <div class="clearfix wow wobble panel text-left">
                             <h1>Mr.Saurabh Singh</h1>
                             <p class="pt-4">
                                 It is a long established fact that a reader will be distracted by the readable content
@@ -373,34 +387,7 @@
             </div>
         </div>
     </footer>
-    <!-- <div>
-        <script type="text/javascript">
-            // let navbar = $(".navbar");
-
-            // $(window).scroll(function () {
-            //     // console.log(window.innerHeight);
-            //     // console.log($(".section-2").offset().top);
-            //     let oTop = $('.section-2').offset().top - window.innerHeight;
-            //     ($(window).scrollTop() > oTop) {
-            //         navbar.addClass("sticky")
-            //     } else {
-            //         navbar.removeClass("sticky");
-            //     }
-            // });
-
-
-            $(window).on("scroll", function () {
-                if ($(window).scrollTop()) {
-                    $('nav').addClass('black');
-                } else {
-                    $('nav').removeClass('black');
-                }
-            })
-        </script>
-    </div> -->
-
-
-
+  
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
         integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous">
