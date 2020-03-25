@@ -47,8 +47,8 @@
 
         <div class="container-fluid p-0">
             <nav class="navbar navbar-expand-lg ">
-                <i class="fas fa-book-reader fa-3x mx-3"></i>
-                <a class="navbar-brand" href="#">Books</a>
+            <img src="../assest/lpulogo.jpg" alt="" style="width: 65px; height: 55px;border-radius: 50%;">
+                <a class="navbar-brand" href="#">LRMS</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
                     aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <i class="fas fa-align-right text-light"></i>
@@ -62,9 +62,9 @@
                         <li class="nav-item">
                             <a class="nav-link" href="../Dashboard/dashboard.php">Dashboard</a>
                         </li>
-                        <li class="nav-item">
+                        <!-- <li class="nav-item">
                             <a class="nav-link" href="#">Price</a>
-                        </li>
+                        </li> -->
                         <li class="nav-item">
                             <a class="nav-link" href="../registration/aboutus.php">About</a>
                         </li>
@@ -81,13 +81,12 @@
         <div class="container text-center">
             <div class="row">
                 <div class="col-md-7 col-sm-12">
-                    <h6>AUTHOR:DAILY TUITION</h6>
-                    <h1>EXCUTING ADVENTURE</h1>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been
-                        the industry's standard dummy text ever since the 1500s, when an unknown
-                        printer took a galley of type and scrambled it to make a type specimen book.
+                    <h6>Lovely Room</h6>
+                    <h1>MANAGEMENT SYSTEM</h1>
+                    <p>
+                    Lpu consisted of large number of building so it become important to manage the allocation od room easily.
                     </p>
-                    <button class="btn btn-light px-5 py-2">By now for $5.99</button>
+                    <button class="btn btn-light px-5 py-2">Book Know</button>
                 </div>
                 <div class="col-md-5 col-sm-12 h-25">
                     <img src="../assest/newheader-img.png" alt="Books">
@@ -102,23 +101,20 @@
                 <div class="row">
                     <div class="col-md-6">
                         <div class="pray">
-                            <img src="../assest/pecsart-img2.jpg" alt="pray">
+                            <img src="../assest/narendra modi.webp" alt="pray">
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="clearfix wow wobble panel text-left">
-                            <h1>Mr.Saurabh Singh</h1>
+                            <h1>Prime Minister, Shri Narendra Modi</h1>
                             <p class="pt-4">
-                                It is a long established fact that a reader will be distracted by the readable content
-                                of a page when looking at its layout. The point of using Lorem Ipsum is that it has a
+                            ``Jai Jawan, Jai Kisan, Jai Vigyan, Jai Anusandhan: PM Modi at 106th Science Congress``
                             </p>
                             <p>
-                                more-or-less normal distribution of
-                                letters, as opposed to using 'Content here, content here', making it look like readable
-                                English.
-                                more-or-less normal distribution of
-                                letters, as opposed to using 'Content here, content here', making it look like readable
-                                English.
+                            The Prime Minister, Shri Narendra Modi, today delivered the inaugural address at the 106th session of
+                             the Indian Science Congress.Reflecting on the theme of the event this year - ‘Future India: Science and Technology’ 
+                             - the Prime Minister said that India's true strength will be in connecting its science, technology and innovation, 
+                             with its people.
                             </p>
                         </div>
                     </div>
@@ -128,36 +124,35 @@
         <section class="section-2 container-fluid p-0">
             <div class="cover">
                 <div class="content text-center">
-                    <h1>Some features That Made Us Unique</h1>
+                    <h1>UNBEATABLE PLACEMENT RECORD</h1>
                     <p>
-                        letters, as opposed to using 'Content here, content here', making it look like readable
-                        English
+                        From Google to Microsoft, LPU Students are working with top brands at packages of over Rs. 1 Crore 
                     </p>
                 </div>
             </div>
             <div class="container-fluid text-center">
                 <div class="numbers d-flex flex-md-row flex-wrap justify-content-center">
                     <div class="rect">
-                        <h1 class="counter">2345</h1>
-                        <p>Happy Client</p>
+                        <h1 class="counter">1000</h1>
+                        <p>housands of LPU sudents have got placed in top MNCs in USA, UK, Canada, Australia etc.</p>
                     </div>
                     <div class="rect">
-                        <h1 class="counter">6784</h1>
-                        <p>Cups coffee</p>
+                        <h1 class="counter">600</h1>
+                        <p>Offers alone made by Ten Fortune 500 companies including Amazon, Xerox, HP to 2017 batch students.</p>
                     </div>
                     <div class="rect">
-                        <h1 class="counter">1056</h1>
-                        <p>Tickets submitted</p>
+                        <h1 class="counter">610</h1>
+                        <p>Students hired by cognizant in a single day. Highest in North India till date.</p>
                     </div>
                     <div class="rect">
-                        <h1 class="counter">9152</h1>
-                        <p>Total Projects</p>
+                        <h1 class="counter">500</h1>
+                        <p>Multinational & National companies have recruited LPU students.</p>
                     </div>
                 </div>
             </div>
 
             <div class="purchase text-center">
-                <h1>purchase whatever You Want</h1>
+                <h1>Meet LPU Alumni</h1>
                 <p>
                     letters, as opposed to using 'Content here, content here', making it look like readable
                     <div class="cards">
@@ -166,14 +161,14 @@
                             <div class="card">
                                 <div class="card-body">
                                     <div class="title">
-                                        <h5 class="card-title">PDF</h5>
+                                        <h5 class="card-title">Tanya Arora</h5>
                                     </div>
                                     <p class="card-text">
-                                        with supporting text below as a natural lead-in.
+                                        <img style="" src="../assest/tanya-arora.jpg" alt="">
                                     </p>
                                     <div class="pricing">
-                                        <h1>$77.99</h1>
-                                        <a href="" class="btn btn-dark px-5 py-2 mb-5">Purchase Now</a>
+                                        <h6>LPU Student Tanya Arora hired by Microsoft at a package of INR 42 Lac</h6>
+                                        <!-- <a href="" class="btn btn-dark px-5 py-2 mb-5">Purchase Now</a> -->
                                     </div>
                                 </div>
                             </div>
@@ -181,14 +176,14 @@
                             <div class="card">
                                 <div class="card-body">
                                     <div class="title">
-                                        <h5 class="card-title">E-Book</h5>
+                                        <h5 class="card-title">LPU alumni</h5>
                                     </div>
                                     <p class="card-text">
-                                        with supporting text below as a natural lead-in.
+                                        <img style="" src="../assest/all.jpg" alt="">    
                                     </p>
                                     <div class="pricing">
-                                        <h1>$87.99</h1>
-                                        <a href="" class="btn btn-dark px-5 py-2 mb-5">Purchase Now</a>
+                                        <h6>Offers of Rs. 1 Crore from Apple, Google etc are now becoming the norm!</h6>
+                                        <!-- <a href="" class="btn btn-dark px-5 py-2 mb-5">Purchase Now</a> -->
                                     </div>
                                 </div>
                             </div>
@@ -196,14 +191,14 @@
                             <div class="card">
                                 <div class="card-body">
                                     <div class="title">
-                                        <h5 class="card-title">Print copy</h5>
+                                        <h5 class="card-title">LPU alumni</h5>
                                     </div>
                                     <p class="card-text">
-                                        with supporting text below as a natural lead-in.
+                                        <img src="../assest/cognizant.jpg" alt="">  
                                     </p>
                                     <div class="pricing">
-                                        <h1>$50.99</h1>
-                                        <a href="" class="btn btn-dark px-5 py-2 mb-5">Purchase Now</a>
+                                    <h6>Record placements with over 610 hired on a single day by Cognizant.</h6>
+                                        <!-- <a href="" class="btn btn-dark px-5 py-2 mb-5">Purchase Now</a> -->
                                     </div>
                                 </div>
                             </div>
@@ -212,7 +207,7 @@
                 </p>
             </div>
         </section>
-        <section class="section-3 container-fluid p-0 text-center">
+        <!-- <section class="section-3 container-fluid p-0 text-center">
             <div class="row">
                 <div class="col-md-12 col-sm-12">
                     <h1>Download Our App For all platforms</h1>
@@ -248,30 +243,29 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
 
 
         <section class="section-4">
             <div class="container text-center">
-                <h1 class="text-dark">What our reader's Say About us</h1>
-                <p class="text-secondary">Lorem lpsam dolor sit amet.</p>
+                <h1 class="text-dark">LPU strikes deals with Google, SAP, Oracle etc to offer free industry training to students!</h1>
+                <!-- <p class="text-secondary">Lorem lpsam dolor sit amet.</p> -->
 
             </div>
             <div class="team row">
                 <div class="col-md-4 sm-12 text-center">
                     <div class="card mr-2 d-inline-block shadow-lg">
                         <div class="card-img-top">
-                            <img src="../assest/UI-face-3.jpg" alt="Member" class="img-fluid border-radius p-4">
+                            <img src="../assest/sap.jpg" alt="Member" class="img-fluid border-radius p-4">
                         </div>
                         <div class="card-body">
-                            <h3 class="card-title">Blalock Jalene</h3>
-                            <p class="card-text">Lorem Ipsum is simply dummy text of the printing and typesetting
-                                industry. Lorem Ipsum has been the industry's
-                                standard dummy text ever since the 1500s, when an unknown printer took a galley of
-                                type and scrambled it to make a type specimen book.
+                            <h3 class="card-title">LPU Students to be trained on SAP Business Suite</h3>
+                            <p class="card-text">A training that costs over Rs. 3 Lac is provided to LPU students of B.Tech.,
+                                         BCA, MCA, MBA, M.Com., BBA (Hons.), B.Com (Hons.),etc. completely free. Students can get training
+                                          in SAP Business Process Modules, leading to SAP Consultant Certification.
                             </p>
-                            <a href="#" class="text-secondary text-decoration-none">Go Somewhere</a>
-                            <p class="text-black-50">CEO at WISSEN</p>
+                            <!-- <a href="#" class="text-secondary text-decoration-none">Go Somewhere</a>
+                            <p class="text-black-50">CEO at WISSEN</p> -->
                         </div>
                     </div>
                 </div>
@@ -283,20 +277,18 @@
                                 <!-- card 2-->
                                 <div class="card mr-2 d-inline-block shadow-lg">
                                     <div class="card-img-top">
-                                        <img src="../assest/UI-face-3.jpg" alt="Member"
+                                        <img src="../assest/google.jpg" alt="Member"
                                             class="img-fluid border-radius p-4">
                                     </div>
                                     <div class="card-body">
-                                        <h3 class="card-title">Blalock Jalene</h3>
-                                        <p class="card-text">Lorem Ipsum is simply dummy text of the printing and
-                                            typesetting
-                                            industry. Lorem Ipsum has been the industry's
-                                            standard dummy text ever since the 1500s, when an unknown printer took a
-                                            galley of
-                                            type and scrambled it to make a type specimen book.
+                                        <h3 class="card-title">LPU Collaboration with Google</h3>
+                                        <p class="card-text">Lovely Professional University has collaborated with Google for providing Android
+                                         specialization training to its engineering students within the campus.
+                                         LPU sets the record of Highest Engineering Placements in North India for Three consecutive years.
+                                         LPU alumni can be found in most top global brands like Apple.
                                         </p>
-                                        <a href="#" class="text-secondary text-decoration-none">Go Somewhere</a>
-                                        <p class="text-black-50">CEO at WISSEN</p>
+                                        <!-- <a href="#" class="text-secondary text-decoration-none">Go Somewhere</a>
+                                        <p class="text-black-50">CEO at WISSEN</p> -->
                                     </div>
                                 </div>
                             </div>
@@ -304,20 +296,16 @@
                                 <!-- card-3 -->
                                 <div class="card mr-2 d-inline-block shadow-lg">
                                     <div class="card-img-top">
-                                        <img src="../assest/UI-face-3.jpg" alt="Member"
+                                        <img src="../assest/ranking.jpg" alt="Member"
                                             class="img-fluid border-radius p-4">
                                     </div>
                                     <div class="card-body">
-                                        <h3 class="card-title">Blalock Jalene</h3>
-                                        <p class="card-text">Lorem Ipsum is simply dummy text of the printing and
-                                            typesetting
-                                            industry. Lorem Ipsum has been the industry's
-                                            standard dummy text ever since the 1500s, when an unknown printer took a
-                                            galley of
-                                            type and scrambled it to make a type specimen book.
+                                        <h3 class="card-title">LPU Ranks among the Top Universities of India in more than 20 Prestigious Researches And Rankings</h3>
+                                        <p class="card-text">LPU has been consistently ranked as top university in various areas like placements, quality education, industry interface,
+                                             infrastructure, international relations etc.
                                         </p>
-                                        <a href="#" class="text-secondary text-decoration-none">Go Somewhere</a>
-                                        <p class="text-black-50">CEO at WISSEN</p>
+                                        <!-- <a href="#" class="text-secondary text-decoration-none">Go Somewhere</a> -->
+                                        <!-- <p class="text-black-50">CEO at WISSEN</p> -->
                                     </div>
                                 </div>
                             </div>
@@ -328,17 +316,16 @@
                     <!-- card-4 -->
                     <div class="card mr-2 d-inline-block shadow-lg">
                         <div class="card-img-top">
-                            <img src="../assest/UI-face-3.jpg" alt="Member" class="img-fluid border-radius p-4">
+                            <img src="../assest/oracle.jpg" alt="Member" class="img-fluid border-radius p-4">
                         </div>
                         <div class="card-body">
-                            <h3 class="card-title">Blalock Jalene</h3>
-                            <p class="card-text">Lorem Ipsum is simply dummy text of the printing and typesetting
-                                industry. Lorem Ipsum has been the industry's
-                                standard dummy text ever since the 1500s, when an unknown printer took a galley of
-                                type and scrambled it to make a type specimen book.
+                            <h3 class="card-title">Now get Oracle Certification Training at LPU</h3>
+                            <p class="card-text">LPU students can avail training in Oracle's popular tracks (BI, Big Data and & IoT)
+                             leading to OCA (Oracle Certified Administrator) certification.
+                             This training, which usually costs over Rs. 1.5 Lac, is provided for free to LPU students Certification.
                             </p>
-                            <a href="#" class="text-secondary text-decoration-none">Go Somewhere</a>
-                            <p class="text-black-50">CEO at WISSEN</p>
+                            <!-- <a href="#" class="text-secondary text-decoration-none">Go Somewhere</a>
+                            <p class="text-black-50">CEO at WISSEN</p> -->
                         </div>
                     </div>
                 </div>
@@ -352,12 +339,12 @@
             <div class="row text-left">
                 <div class="col-md-5 col-md-5">
                     <h1 class="text-light">About Us</h1>
-                    <p class="text-muted">Lorem Ipsum is simply dummy text of the printing and typesetting
-                        industry. Lorem Ipsum has been the.
+                    <p class="text-muted">India's Largest University* Lovely Professional University, Jalandhar-Delhi,
+                     G.T. Road, Phagwara, Punjab (INDIA) -144411.
                     </p>
                     <p class="pt-4 text-muted">
-                        Lorem Ipsum is simply dummy text of the
-                        <span>Panting</span>
+                    Website:
+                        <span> http://www.lpu.in</span>
                     </p>
                 </div>
                 <div class="col-md-5">

@@ -47,12 +47,12 @@
                         <li class="nav-item active">
                             <a class="nav-link" href="../src/indexnew.php">Home <span class="sr-only">(current)</span></a>
                         </li>
-                        <li class="nav-item">
+                        <!-- <li class="nav-item">
                             <a class="nav-link" href="#">Course</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#">Price</a>
-                        </li>
+                        </li> -->
                         <li class="nav-item">
                             <a class="nav-link" href="../registration/aboutus.php">About</a>
                         </li>
