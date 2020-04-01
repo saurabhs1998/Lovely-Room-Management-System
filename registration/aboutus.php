@@ -53,7 +53,7 @@
                             <a class="nav-link" href="#">About</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="../registration/login.php">User</a>
+                            <a class="nav-link" href="../registration/login.php"></a>
                         </li>
                     </ul>
                 </div>
@@ -100,7 +100,7 @@
                                         <h5 class="card-title">Saurabh Singh</h5>
                                     </div>
                                     <p class="card-text">
-                                        <img style="" src="../assest/tanya-arora.jpg" alt="">
+                                        <img style="" src="../assest/DSC_0396.jpg" alt="">
                                     </p>
                                     <div class="pricing">
                                         <h6>Full Stack Developer</h6>
@@ -115,7 +115,7 @@
                                         <h5 class="card-title">Dilip Kumar</h5>
                                     </div>
                                     <p class="card-text">
-                                        <img style="" src="../assest/all.jpg" alt="">    
+                                        <img style="" src="../assest/_DSC0041.jpg" alt="">    
                                     </p>
                                     <div class="pricing">
                                         <h6>Full Stack Developer</h6>
@@ -130,7 +130,7 @@
                                         <h5 class="card-title">Ravi Mohan Singh</h5>
                                     </div>
                                     <p class="card-text">
-                                        <img src="../assest/cognizant.jpg" alt="">  
+                                        <img src="../assest/raviphoto.jpg" alt="">  
                                     </p>
                                     <div class="pricing">
                                     <h6>Full Stack Developer</h6>
