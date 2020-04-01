@@ -1,4 +1,4 @@
-# Lovely-Room-Management-System
+# Lovely-Room-Management-System (php)
 ### Problem Statement
 
 To resolve the issue of room managament system that we have described in our synopsis we made this project.
