@@ -1,9 +1,9 @@
 # Lovely-Room-Management-System
-Problem Statement
+### Problem Statement
 
 To resolve the issue of room managament system that we have described in our synopsis we made this project.
 
-What this project do basically ??
+### What this project do basically ??
 
 The project maintain a consistent data of all the rooms that are currently vaccant or occupied with all the details that include who booked the room for what purpose and for how much time.
 
